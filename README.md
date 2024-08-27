@@ -1,6 +1,6 @@
 # Meu primeiro site
 
-Este foi o meu primeiro site, desenvolvido em 2014 durante o meu Curso Técnico em Informática. O site é um portal informacional de alguns jogos do tipo MMORPG.
+Este foi o meu primeiro site, desenvolvido em 2014 durante o meu Curso Técnico em Informática. O site é um portal informacional de jogos do tipo MMORPG.
 
 ## 👀 Demo
 
